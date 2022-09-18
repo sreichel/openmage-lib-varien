@@ -1,0 +1,14 @@
+{
+    "name": "openmage/lib-varien",
+    "description": "Varien library",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+            "name":"Sven Reichel",
+            "homepage":"https://github.com/sreichel"
+        }
+    ]
+}
